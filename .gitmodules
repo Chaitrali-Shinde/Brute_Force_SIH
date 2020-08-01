@@ -1,3 +1,6 @@
 [submodule "startup"]
 	path = startup
 	url = https://github.com/BruteForceSIH/startup.git
+[submodule "SecurityService"]
+	path = SecurityService
+	url = https://github.com/BruteForceSIH/SecurityService.git
