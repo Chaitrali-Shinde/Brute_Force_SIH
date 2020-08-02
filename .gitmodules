@@ -7,3 +7,6 @@
 [submodule "ProfileManagementService"]
 	path = ProfileManagementService
 	url = https://github.com/BruteForceSIH/ProfileManagementService.git
+[submodule "EntityActionService"]
+	path = EntityActionService
+	url = https://github.com/BruteForceSIH/EntityActionService.git
