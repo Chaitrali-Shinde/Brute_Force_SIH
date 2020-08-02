@@ -7,3 +7,6 @@
 [submodule "ProfileManagementService"]
 	path = ProfileManagementService
 	url = https://github.com/BruteForceSIH/ProfileManagementService.git
+[submodule "ForumService"]
+	path = ForumService
+	url = https://github.com/BruteForceSIH/ForumService.git
