@@ -19,3 +19,6 @@
 [submodule "CommunicationService"]
 	path = CommunicationService
 	url = https://github.com/BruteForceSIH/CommunicationService.git
+[submodule "RatingService"]
+	path = RatingService
+	url = https://github.com/BruteForceSIH/RatingService.git
