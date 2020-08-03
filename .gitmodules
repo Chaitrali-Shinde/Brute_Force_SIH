@@ -4,12 +4,6 @@
 [submodule "SecurityService"]
 	path = SecurityService
 	url = https://github.com/BruteForceSIH/SecurityService.git
-[submodule "ProfileManagementService"]
-	path = ProfileManagementService
-	url = https://github.com/BruteForceSIH/ProfileManagementService.git
-[submodule "ForumService"]
-	path = ForumService
-	url = https://github.com/BruteForceSIH/ForumService.git
 [submodule "EntityActionService"]
 	path = EntityActionService
 	url = https://github.com/BruteForceSIH/EntityActionService.git
