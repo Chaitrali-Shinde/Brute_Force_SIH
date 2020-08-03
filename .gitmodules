@@ -16,3 +16,6 @@
 [submodule "AdService"]
 	path = AdService
 	url = https://github.com/BruteForceSIH/AdService.git
+[submodule "CommunicationService"]
+	path = CommunicationService
+	url = https://github.com/BruteForceSIH/CommunicationService.git
