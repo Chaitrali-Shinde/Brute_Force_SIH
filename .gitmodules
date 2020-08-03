@@ -25,3 +25,6 @@
 [submodule "haproxy"]
 	path = haproxy
 	url = https://github.com/BruteForceSIH/haproxy.git
+[submodule "notificationService"]
+	path = notificationService
+	url = https://github.com/BruteForceSIH/notificationService.git
