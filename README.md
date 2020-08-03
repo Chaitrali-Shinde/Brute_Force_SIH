@@ -1,5 +1,8 @@
 # Brute_Force_SR272_docs
 documentation
+How to check out locally:
+git clone https://github.com/BruteForceSIH2020/SR272_Brute_Force.git
+git submodule update --init --recursive
 
 ###Problem Statement
 
