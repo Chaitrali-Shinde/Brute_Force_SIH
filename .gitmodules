@@ -13,3 +13,6 @@
 [submodule "ForumService"]
 	path = ForumService
 	url = https://github.com/BruteForceSIH/ForumService.git
+[submodule "AdService"]
+	path = AdService
+	url = https://github.com/BruteForceSIH/AdService.git
