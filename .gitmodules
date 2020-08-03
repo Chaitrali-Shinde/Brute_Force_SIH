@@ -22,3 +22,6 @@
 [submodule "RatingService"]
 	path = RatingService
 	url = https://github.com/BruteForceSIH/RatingService.git
+[submodule "haproxy"]
+	path = haproxy
+	url = https://github.com/BruteForceSIH/haproxy.git
